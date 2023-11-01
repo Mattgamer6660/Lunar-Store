@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: Home
+layout: default
 ---
 # Lunar Store Documentation
 ## Introduction
